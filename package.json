@@ -1,0 +1,17 @@
+{
+  "name": "jest-playwright-example",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3",
+    "mkdirp": "^1.0.4",
+    "playwright": "^1.11.1"
+  }
+}
